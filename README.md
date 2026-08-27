@@ -1,10 +1,10 @@
 # 🍕 Pizza Sales Performance Analytics (SQL & Power BI)
 
 ## 📌 Project Overview
-This project is an end-to-end Data Analytics solution designed to analyze the sales performance of a Pizza franchise. By leveraging **MS SQL Server** for data processing and **Power BI** for data visualization, this project transforms raw sales data into actionable business insights. The goal is to optimize revenue, understand customer purchasing behavior, and identify top/worst-performing products.
+This project is an end-to-end Data Analytics solution designed to analyze the sales performance of a Pizza franchise. By leveraging **PostgreSQL** for data processing and **Power BI** for data visualization, this project transforms raw sales data into actionable business insights. The goal is to optimize revenue, understand customer purchasing behavior, and identify top/worst-performing products.
 
 ## 🛠️ Tech Stack Used
-* **Database Management:** MS SQL Server (Complex Queries, CAST functions, Date functions, Aggregations)
+* **Database Management:** PostgreSQL (Complex Queries, CAST functions, Date/Time functions, Aggregations)
 * **Data Visualization:** Power BI Desktop (DAX, Custom Charts, New Card Visuals, Action Filters, Page Navigation)
 * **Data Source:** Raw CSV Data
 
@@ -27,7 +27,7 @@ This project is an end-to-end Data Analytics solution designed to analyze the sa
 ![Product Performance Analysis](02_Product_Performance_Analysis.png)
 
 ## 💻 SQL Queries Highlight
-All the KPIs and trends were initially queried and validated using MS SQL Server before visualizing them in Power BI. 
+All the KPIs and trends were initially queried and validated using PostgreSQL before visualizing them in Power BI. 
 * Check out the `Pizza_Sales_Queries.sql` file in this repository to see the raw SQL queries used for data extraction and two-way validation.
 
 ---
