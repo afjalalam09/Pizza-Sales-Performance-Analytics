@@ -1,11 +1,14 @@
-# 🍕 Pizza Sales Performance Analytics (SQL & Power BI)
+# 🍕 Pizza Sales Performance Analytics (SQL, Power BI & Python)
+
+🌐 **Live Interactive Web App:** [Click Here to View Dashboard](https://pizza-sales-performance-analytics-j4pfqu4jkhwuhtdrqgfxj3.streamlit.app/)
 
 ## 📌 Project Overview
-This project is an end-to-end Data Analytics solution designed to analyze the sales performance of a Pizza franchise. By leveraging **PostgreSQL** for data processing and **Power BI** for data visualization, this project transforms raw sales data into actionable business insights. The goal is to optimize revenue, understand customer purchasing behavior, and identify top/worst-performing products.
+This project is an end-to-end Data Analytics solution designed to analyze the sales performance of a Pizza franchise. By leveraging **PostgreSQL** for data processing, **Power BI** for detailed visualization, and **Python (Streamlit)** for cloud deployment, this project transforms raw sales data into actionable business insights. The goal is to optimize revenue, understand customer purchasing behavior, and identify top/worst-performing products.
 
 ## 🛠️ Tech Stack Used
 * **Database Management:** PostgreSQL (Complex Queries, CAST functions, Date/Time functions, Aggregations)
 * **Data Visualization:** Power BI Desktop (DAX, Custom Charts, New Card Visuals, Action Filters, Page Navigation)
+* **Web Deployment:** Python, Pandas, Plotly, Streamlit Cloud
 * **Data Source:** Raw CSV Data
 
 ## 🚀 Key Business Insights
